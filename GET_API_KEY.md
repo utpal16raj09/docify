@@ -18,7 +18,7 @@ Replace the current key in your `.env` file:
 
 ```bash
 # Replace this line in .env:
-GEMINI_API_KEY=AIzaSyDHzFx_h2o1nuW-KhtvgDWZDh9JB891EZQ
+GEMINI_API_KEY=""
 
 # With your new key:
 GEMINI_API_KEY=YOUR_NEW_API_KEY_HERE
@@ -82,5 +82,6 @@ Your premium demo includes:
 - 🚀 Premium particle system
 - 💫 Advanced hover effects
 - 📱 Responsive design
+
 
 The UI is fully functional and showcases the premium SaaS experience!
