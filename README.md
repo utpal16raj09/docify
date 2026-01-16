@@ -10,20 +10,9 @@ A zero-friction Git-to-docs platform that automatically generates beautiful docu
 - 🔍 **Offline-capable search**: FlexSearch with instant results
 - 🔄 **Auto-sync**: One-click GitHub Actions for continuous updates
 - 📊 **Privacy-focused analytics**: Plausible integration with usage insights
-- 🎯 **Predictable URLs**: `https://<user>-<repo>.docify.dev`
 - ⚡ **Performance optimized**: <8s cold starts, <512MB memory usage
 
-## Quick Start
 
-### Web Interface
-1. Visit [docify.dev](https://docify.dev)
-2. Paste your Git repository URL
-3. Get beautiful documentation in seconds
-
-### CLI (for private repos)
-```bash
-npx docify@latest https://github.com/your/private-repo
-```
 
 ## Development
 
@@ -74,5 +63,6 @@ The platform consists of several key components:
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ## License
+
 
 MIT License - see [LICENSE](LICENSE) for details.
